@@ -1,0 +1,7 @@
+D:\main\alphabetical-string-sorter\StringSorter\StringSorter\bin\Debug\StringSorter.exe.config
+D:\main\alphabetical-string-sorter\StringSorter\StringSorter\bin\Debug\StringSorter.exe
+D:\main\alphabetical-string-sorter\StringSorter\StringSorter\bin\Debug\StringSorter.pdb
+D:\main\alphabetical-string-sorter\StringSorter\StringSorter\obj\Debug\StringSorter.csprojAssemblyReference.cache
+D:\main\alphabetical-string-sorter\StringSorter\StringSorter\obj\Debug\StringSorter.csproj.CoreCompileInputs.cache
+D:\main\alphabetical-string-sorter\StringSorter\StringSorter\obj\Debug\StringSorter.exe
+D:\main\alphabetical-string-sorter\StringSorter\StringSorter\obj\Debug\StringSorter.pdb
